@@ -17,5 +17,8 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/Ashylila/TheCollector/refs/heads/master/icon.png",
   "Punchline": "Plugin that automatically turns in collectables and buys specified scrip items",
-  "AcceptsFeedback": false
+  "AcceptsFeedback": false,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/latest.zip"
 }
