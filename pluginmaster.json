@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Original Author Ashy Modified by DaPC",
+    "Name": "The Collector",
+    "InternalName": "TheCollector",
+    "AssemblyVersion": "0.4.6.0",
+    "Description": "Automates collectable turn-ins and automatically purchases specified items when reaching scrip caps. Integrates with GatherBuddyReborn and Artisan, allowing you to create perfect loops of gathering, crafting, and turn-ins.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/owu4346/DaPCPluginRepo",
+    "Tags": [
+      "collectables",
+      "automation"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/icon.png",
+    "Punchline": "Plugin that automatically turns in collectables and buys specified scrip items",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/latest.zip"
+  }
+]
