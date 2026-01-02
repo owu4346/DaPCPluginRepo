@@ -21,6 +21,7 @@
     "AcceptsFeedback": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/latest.zip"
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/latest.zip".
+    "DownloadCount": 1,
   }
 ]
