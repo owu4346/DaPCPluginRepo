@@ -1,24 +1,24 @@
 [
   {
-    "Description": "Automates collectable turn-ins and automatically purchases specified items when reaching scrip caps. Integrates with GatherBuddyReborn and Artisan, allowing you to create perfect loops of gathering, crafting, and turn-ins.",
-    "Name": "The Collector",
+    "RepoUrl": "https://github.com/Ashylila/TheCollector",
+    "DalamudApiLevel": 15,
+    "Author": "Ashy",
+    "AssemblyVersion": "0.4.8.0",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/plugins/TheCollector/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/plugins/TheCollector/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/plugins/TheCollector/latest.zip",
+    "Description": "Automates collectable turn-ins and automatically purchases specified items when reaching scrip caps. Integrates with GatherBuddyReborn and Artisan, allowing you to create perfect loops of gathering, crafting, and turn-ins.",
+    "AcceptsFeedback": false,
+    "ApplicableVersion": "any",
     "Tags": [
       "collectables",
       "automation"
     ],
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/plugins/TheCollector/latest.zip",
-    "LastUpdate": 1778356479,
-    "ApplicableVersion": "any",
-    "Author": "Ashy",
-    "RepoUrl": "https://github.com/Ashylila/TheCollector",
     "Punchline": "Plugin that automatically turns in collectables and buys specified scrip items",
-    "IconUrl": "https://raw.githubusercontent.com/Ashylila/TheCollector/refs/heads/master/icon.png",
-    "DownloadCount": 0,
-    "AssemblyVersion": "0.4.7.0",
-    "AcceptsFeedback": false,
+    "Name": "The Collector",
+    "LastUpdate": 1778356695,
     "InternalName": "TheCollector",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/owu4346/DaPCPluginRepo/main/plugins/TheCollector/latest.zip",
-    "DalamudApiLevel": 15
+    "DownloadCount": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Ashylila/TheCollector/refs/heads/master/icon.png"
   }
 ]
